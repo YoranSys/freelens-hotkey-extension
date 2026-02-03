@@ -7,7 +7,8 @@
 
 <!-- markdownlint-enable MD013 -->
 
-This extension adds a fast resource switcher opened via Cmd+K (macOS) or Ctrl+K (Linux/Windows).
+This extension adds a fast resource switcher opened via Cmd+K (macOS)
+or Ctrl+K (Linux/Windows).
 
 Visit wiki page about [creating
 extensions](https://github.com/freelensapp/freelens/wiki/Creating-extensions)
