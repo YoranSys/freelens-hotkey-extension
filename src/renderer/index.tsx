@@ -6,6 +6,7 @@
 import { Renderer } from "@freelensapp/extensions";
 import { ExamplePreferencesStore } from "../common/store";
 import { createAvailableVersionPage } from "./components/available-version";
+import { ResourceSwitcher } from "./components/resource-switcher";
 import { ExampleDetails as ExampleDetailsV1alpha1 } from "./details/example-details-v1alpha1";
 import { ExampleDetails as ExampleDetailsV1alpha2 } from "./details/example-details-v1alpha2";
 import { ExampleIcon } from "./icons";
@@ -22,7 +23,6 @@ import {
 import { ExamplesPage as ExamplesPageV1alpha1 } from "./pages/examples-page-v1alpha1";
 import { ExamplesPage as ExamplesPageV1alpha2 } from "./pages/examples-page-v1alpha2";
 import { ExamplePreferenceHint, ExamplePreferenceInput } from "./preferences/example-preference";
-import { ResourceSwitcher } from "./components/resource-switcher";
 
 export default class ExampleRenderer extends Renderer.LensExtension {
   private resourceSwitcherListener: ((event: KeyboardEvent) => void) | null = null;
