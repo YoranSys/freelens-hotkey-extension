@@ -29,12 +29,12 @@ common resources, namespaces, or CRDs.
 ## Install
 
 To install open Freelens and go to Extensions (`ctrl`+`shift`+`E` or
-`cmd`+`shift`+`E`), and install `freelens-hotkey-extension`.
+`cmd`+`shift`+`E`), and install `@YoranSys/freelens-hotkey-extension`.
 
 or:
 
 Use a following URL in the browser:
-[freelens://app/extensions/install/freelens-hotkey-extension](freelens://app/extensions/install/freelens-hotkey-extension)
+[freelens://app/extensions/install/%40YoranSys%2Ffreelens-hotkey-extension](freelens://app/extensions/install/%40YoranSys%2Ffreelens-hotkey-extension)
 
 ## Build from the source
 
