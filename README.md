@@ -23,8 +23,8 @@ for more informations.
 
 ## Usage
 
-Open any cluster and press Cmd+K (macOS) or Ctrl+K (Linux/Windows). Use the picker to jump to
-common resources, namespaces, or CRDs.
+Open any cluster and press Cmd+K (macOS) or Ctrl+K (Linux/Windows).
+Use the picker to jump to common resources, namespaces, or CRDs.
 
 ## Install
 
@@ -34,7 +34,8 @@ To install open Freelens and go to Extensions (`ctrl`+`shift`+`E` or
 or:
 
 Use a following URL in the browser:
-[freelens://app/extensions/install/%40YoranSys%2Ffreelens-hotkey-extension](freelens://app/extensions/install/%40YoranSys%2Ffreelens-hotkey-extension)
+[freelens://app/extensions/install/%40YoranSys%2Ffreelens-hotkey-extension]
+(freelens://app/extensions/install/%40YoranSys%2Ffreelens-hotkey-extension)
 
 ## Build from the source
 
