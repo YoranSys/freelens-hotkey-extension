@@ -4,6 +4,8 @@
 
 [![Home](https://img.shields.io/badge/%F0%9F%8F%A0-freelens.app-02a7a0)](https://freelens.app)
 [![GitHub](https://img.shields.io/github/stars/freelensapp/freelens?style=flat&label=GitHub%20%E2%AD%90)](https://github.com/freelensapp/freelens)
+[![Release](https://img.shields.io/github/v/release/YoranSys/freelens-hotkey-extension?display_name=tag&sort=semver)](https://github.com/YoranSys/freelens-hotkey-extension)
+[![Integration tests](https://github.com/YoranSys/freelens-hotkey-extension/actions/workflows/integration-tests.yaml/badge.svg?branch=main)](https://github.com/YoranSys/freelens-hotkey-extension/actions/workflows/integration-tests.yaml)
 
 <!-- markdownlint-enable MD013 -->
 
