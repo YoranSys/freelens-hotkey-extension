@@ -1,1 +1,1 @@
-export * from "./example";
+// No icons exported yet
